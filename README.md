@@ -3,8 +3,8 @@ first repo
 
 
 
--point1
--point2
+_ point1
+_ point2
 
 ___
 
